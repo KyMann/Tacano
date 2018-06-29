@@ -1,0 +1,19 @@
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    color: black;
+}
+
+#erupt_button {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    margin: auto;
+    width: 50%;
+}
